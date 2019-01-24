@@ -99,5 +99,5 @@
 
 - 如果觉得项目还不错，可以考虑打赏一波
     -
-    ![image](https://github.com/wlz78096/12306/blob/master/uml/wx.jpg?imageMogr2/auto-orient/strip)
-    ![image](https://github.com/wlz78096/12306/blob/master/uml/zfb.jpg?imageMogr2/auto-orient/strip)
+    ![image](https://github.com/wlz78096/12306/blob/master/uml/wx.png?imageMogr2/auto-orient/strip)
+    ![image](https://github.com/wlz78096/12306/blob/master/uml/zfb.png?imageMogr2/auto-orient/strip)
